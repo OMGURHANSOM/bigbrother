@@ -1,6 +1,6 @@
 # bigbrother
 
-> 接着奏乐~~接着舞！！
+> A Vue.js project
 
 ## Build Setup
 
