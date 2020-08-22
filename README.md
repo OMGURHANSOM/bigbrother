@@ -1,6 +1,6 @@
-# vueblog
+# bigbrother
 
-> A Vue.js project
+> 接着奏乐~~接着舞！！
 
 ## Build Setup
 
